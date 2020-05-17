@@ -1,0 +1,14 @@
+Possible Errors:
+
+	API refresh rate
+		- Free API has call limit
+		- Extensive calls produce error
+	
+
+Next Steps:
+
+	Be able to refresh pages in current window instead of creating new 	windows
+		- Make container a global var, and initialize page everytime it 		is called, and add to container
+		
+	Create a more detailed homepage with better GUI management
+		- Use .grid() instead of .pack() for better placement
